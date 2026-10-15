@@ -1,0 +1,132 @@
+[
+  {
+    "letter": "A",
+    "example": "apple",
+    "emoji": "🍎"
+  },
+  {
+    "letter": "B",
+    "example": "ball",
+    "emoji": "⚽"
+  },
+  {
+    "letter": "C",
+    "example": "cat",
+    "emoji": "🐱"
+  },
+  {
+    "letter": "D",
+    "example": "dog",
+    "emoji": "🐶"
+  },
+  {
+    "letter": "E",
+    "example": "egg",
+    "emoji": "🥚"
+  },
+  {
+    "letter": "F",
+    "example": "fish",
+    "emoji": "🐟"
+  },
+  {
+    "letter": "G",
+    "example": "goat",
+    "emoji": "🐐"
+  },
+  {
+    "letter": "H",
+    "example": "hat",
+    "emoji": "🎩"
+  },
+  {
+    "letter": "I",
+    "example": "igloo",
+    "emoji": "🧊"
+  },
+  {
+    "letter": "J",
+    "example": "jam",
+    "emoji": "🍓"
+  },
+  {
+    "letter": "K",
+    "example": "kite",
+    "emoji": "🪁"
+  },
+  {
+    "letter": "L",
+    "example": "lion",
+    "emoji": "🦁"
+  },
+  {
+    "letter": "M",
+    "example": "moon",
+    "emoji": "🌙"
+  },
+  {
+    "letter": "N",
+    "example": "nest",
+    "emoji": "🪺"
+  },
+  {
+    "letter": "O",
+    "example": "octopus",
+    "emoji": "🐙"
+  },
+  {
+    "letter": "P",
+    "example": "pig",
+    "emoji": "🐷"
+  },
+  {
+    "letter": "Q",
+    "example": "queen",
+    "emoji": "👑"
+  },
+  {
+    "letter": "R",
+    "example": "rabbit",
+    "emoji": "🐰"
+  },
+  {
+    "letter": "S",
+    "example": "sun",
+    "emoji": "☀️"
+  },
+  {
+    "letter": "T",
+    "example": "tiger",
+    "emoji": "🐯"
+  },
+  {
+    "letter": "U",
+    "example": "umbrella",
+    "emoji": "☂️"
+  },
+  {
+    "letter": "V",
+    "example": "van",
+    "emoji": "🚐"
+  },
+  {
+    "letter": "W",
+    "example": "whale",
+    "emoji": "🐳"
+  },
+  {
+    "letter": "X",
+    "example": "fox",
+    "emoji": "🦊"
+  },
+  {
+    "letter": "Y",
+    "example": "yo-yo",
+    "emoji": "🪀"
+  },
+  {
+    "letter": "Z",
+    "example": "zebra",
+    "emoji": "🦓"
+  }
+]
